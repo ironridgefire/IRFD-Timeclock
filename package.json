@@ -1,0 +1,8 @@
+{
+  "name": "irfd-timeclock",
+  "version": "1.0.0",
+  "description": "Iron Ridge Fire Department Time Clock System",
+  "scripts": {
+    "start": "serve public"
+  }
+}
